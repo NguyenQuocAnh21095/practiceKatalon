@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Client-ID 3bf92dd3dc8ef77'</initValue>
+      <name>clientID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'EAAC6LhIYvmMBAANw5iMZAC5rmK6s7Y6jGMedbb7jf9LJJNO1jGgzXlJ4JP4u4CZAyfvrmq2YemfLp5YlWZBFciNZAyrYZA1jkxw5d3WkO7B2RdGjwOM2UfN5fizbnfZAZBhcIcuEUSmbjZCAd1SZALZB7S7vKmNRdxNpCdMVsMIO91gKtQ3cf2eXZBSYP2bkL8ZBT5FExsn2ZBturkxUyuL1rMfa1pEMA0sMoNPyXfrQcgJPNUmTc2JjBwHXz'</initValue>
+      <name>tokenID</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
